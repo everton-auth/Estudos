@@ -9,3 +9,10 @@
  yarn android -> executa o expo start --android (Abre o server para android)
  yarn ios -> executa o expo start --ios (Abre o server para ios)
  yarn web -> executa o expo start --web (Abre o server para web)
+
+
+ # Tags
+
+ ### SafeAreaView
+
+ Usa apênas a área usual da tela dispositivo, ignorando as partes onde podem ficar ocultos os componentes.
